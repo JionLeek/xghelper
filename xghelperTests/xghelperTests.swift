@@ -2,7 +2,7 @@
 //  xghelperTests.swift
 //  xghelperTests
 //
-//  Created by 梁徽科 on 14/11/3.
+//  Created by edou on 14/11/3.
 //  Copyright (c) 2014年 edou. All rights reserved.
 //
 
